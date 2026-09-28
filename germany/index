@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Germany Unit - GCSE History</title>
+    <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+<body>
+    <header class="site-header">
+        <a href="../index.html" class="back-link">&larr; Back to Title Page</a>
+        <h1>Germany Revision Suite</h1>
+    </header>
+
+    <main class="container">
+        <h2>Unit Resources</h2>
+        <div class="resource-list">
+            <a href="unit-1-textbook.html" class="resource-item">Unit 1 Textbook</a>
+            <a href="unit-2-textbook.html" class="resource-item">Unit 2 Textbook</a>
+            <a href="unit-3-textbook.html" class="resource-item">Unit 3 Textbook</a>
+            <a href="summary.html" class="resource-item">Summary Revision Guide</a>
+            <a href="flashcards.html" class="resource-item">Flashcards</a>
+            <a href="timeline.html" class="resource-item">Timeline</a>
+            <a href="keywords.html" class="resource-item">Key Words</a>
+        </div>
+    </main>
+</body>
+</html>
